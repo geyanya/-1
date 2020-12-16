@@ -1,6 +1,10 @@
 <template>
   <div id="app">
+
       <h1>TOM开始板砖了</h1>
+
+      <h1>Amanda开始板砖了</h1>
+
   </div>
 </template>
 
